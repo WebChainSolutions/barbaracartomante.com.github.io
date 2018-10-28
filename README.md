@@ -5,7 +5,7 @@ powered by Webchainsolutions
 
 (Bologna, Italy, 2017)
 
-https://webchainsolutions.github.io/barbaracartomante.github.io/
+https://webchainsolutions.github.io/barbaracartomante.com.github.io/
 
 ![alt text](
 https://raw.githubusercontent.com/WebChainSolutions/barbaracartomante.com.github.io/master/images/home.JPG)
